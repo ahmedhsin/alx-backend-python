@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """to_kv function with type anotition"""
 from typing import List, Union, Tuple
 

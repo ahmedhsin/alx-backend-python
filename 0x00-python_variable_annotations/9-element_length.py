@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """element_length function with type anotition"""
 from typing import List, Tuple, Sequence
 
